@@ -3,9 +3,8 @@
 
 **Programa:** Análisis y Desarrollo de Software (ADSO)  
 **Versión:** 1.0.0  
-**Fecha:** 24 de noviembre de 2026  
-**Equipo evaluador:** [Completar nombres de integrantes]  
-**Instructor:** [Completar]  
+**Fecha:** 24/112026  
+**Equipo evaluador:** faltan los nombres  
 
 ## Contenido del repositorio
 
