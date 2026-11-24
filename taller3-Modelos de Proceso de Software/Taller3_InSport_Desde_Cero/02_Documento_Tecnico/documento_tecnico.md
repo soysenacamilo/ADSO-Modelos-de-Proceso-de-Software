@@ -347,5 +347,3 @@ El equipo debe revisar, corregir y comprender todo contenido asistido por IA ant
 | DevOps, CI/CD, ambientes y DevSecOps | Sección 5.3 |
 | Uso ético de IA | Sección 6.1 |
 | Referencias y Pressman | Sección 6.2 |
-
-**Antes de entregar:** completar integrantes e instructor, confirmar requisitos reales de InSport, verificar la edición de Pressman disponible y no declarar como realizadas pruebas, entrevistas o despliegues que todavía no se hayan ejecutado.
