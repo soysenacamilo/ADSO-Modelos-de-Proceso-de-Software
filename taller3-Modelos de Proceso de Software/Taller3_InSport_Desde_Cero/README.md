@@ -18,20 +18,3 @@
 
 InSport se plantea como una aplicación web para apoyar la organización de actividades deportivas e intercursos. La solución contempla registro de estudiantes, selección de disciplina deportiva, consulta de participantes y administración de equipos, programación de encuentros y registro de resultados por parte de perfiles autorizados.
 
-**Importante:** la guía permite usar el proyecto formativo integrador. Los requisitos detallados de este documento son una propuesta académica inicial basada en la descripción disponible del proyecto; deben confirmarse con el instructor y los usuarios antes de tratarse como requisitos aprobados.
-
-## Cómo cargarlo a GitHub
-
-1. Descargue y descomprima el ZIP.
-2. Abra el repositorio de GitHub correspondiente.
-3. Seleccione **Add file > Upload files**.
-4. Arrastre el contenido de esta carpeta (no solamente el ZIP).
-5. Confirme el commit con un mensaje como `Agregar Taller 3 completo - modelos de proceso`.
-6. Verifique que se vean los cinco documentos y los diagramas.
-
-## Pendientes antes de entregar
-
-- Reemplazar los campos entre corchetes con nombres reales.
-- Confirmar con el instructor si el caso InSport está aprobado.
-- Ajustar RF/RNF a los requisitos efectivamente acordados.
-- Si el proyecto no tendrá despliegue en la nube, adaptar la sección DevOps a los ambientes y herramientas reales.
